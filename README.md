@@ -1,4 +1,4 @@
-# Deeplearning
+# Deep Learning
 This repo keeps track of my learning of AI from deeplearning.ai.
 
 Enrolled and completed courses:
