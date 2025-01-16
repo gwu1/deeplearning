@@ -7,16 +7,16 @@ Enrolled and completed courses:
 
 2. [Build LLM Apps with LangChain.js](https://learn.deeplearning.ai/accomplishments/724d688d-9dfc-42c5-a86f-803fa4a8a010?usp=sharing) - Expand your toolkit with LangChain.js, a JavaScript framework for building with LLMs. Understand the fundamentals of using LangChain to orchestrate and chain modules.
 
-3. Quantization Fundamentals with Hugging Face - Learn how to quantize any open-source model. Learn to compress models with the Hugging Face Transformers library and the Quanto library.
+3. Preprocessing Unstructured Data for LLM Applications - Improve your RAG system to retrieve diverse data types. Learn to extract and normalize content from a wide variety of document types, such as PDFs, PowerPoints, and HTML files.
 
-5. Preprocessing Unstructured Data for LLM Applications - Improve your RAG system to retrieve diverse data types. Learn to extract and normalize content from a wide variety of document types, such as PDFs, PowerPoints, and HTML files.
+4. Quantization Fundamentals with Hugging Face - Learn how to quantize any open-source model. Learn to compress models with the Hugging Face Transformers library and the Quanto library. 
 
-6. Evaluating and Debugging Generative AI - Learn MLOps tools for managing, versioning, debugging, and experimenting in your ML workflow.
+5. Evaluating and Debugging Generative AI - Learn MLOps tools for managing, versioning, debugging, and experimenting in your ML workflow.
 
-7. Vector Databases: from Embeddings to Applications - Design and execute real-world applications of vector databases. Build efficient, practical applications, including hybrid and multilingual searches.
+6. Vector Databases: from Embeddings to Applications - Design and execute real-world applications of vector databases. Build efficient, practical applications, including hybrid and multilingual searches.
 
-8. Building Applications with Vector Databases - Learn to build six applications powered by vector databases, including semantic search, retrieval augmented generation (RAG), and anomaly detection.
+7. Building Applications with Vector Databases - Learn to build six applications powered by vector databases, including semantic search, retrieval augmented generation (RAG), and anomaly detection.
 
-9. Efficiently Serving LLMs - Understand how LLMs predict the next token and how techniques like KV caching can speed up text generation. Write code to serve LLM applications efficiently to multiple users.
+8. Efficiently Serving LLMs - Understand how LLMs predict the next token and how techniques like KV caching can speed up text generation. Write code to serve LLM applications efficiently to multiple users.
 
 
